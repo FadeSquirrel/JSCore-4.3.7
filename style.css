@@ -107,7 +107,7 @@ body {
 
 .result-list__closeBtn {
   background-color: #e7ee84;
-  background-image: url(/crosshair.svg);
+  background-image: url(crosshair.svg);
 
   width: 46px;
   height: 43px;
